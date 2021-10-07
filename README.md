@@ -1,6 +1,6 @@
-Chào mừng các thầy cô trường Trung Học Cơ Sở Tân Triều. Dưới đây là danh sách SỔ GHI ĐẦU BÀI, LỊCH BÁO GIẢNG 
+Chào mừng các thầy cô Trường THCS Tân Triều. Dưới đây là danh sách SỔ GHI ĐẦU BÀI, LỊCH BÁO GIẢNG 
 
-Nếu có yêu cầu hay thắc gì vui lòng các thầy cô gửi thông tin về cho địa chỉ [huongfit@gmail.com]
+Nếu có yêu cầu hay thắc gì vui lòng các thầy cô gửi thông tin về cho địa chỉ email : [huongfit@gmail.com](huongfit@gmail.com)
 
 ## SỔ GHI ĐẦU BÀI TRỰC TUYẾN
 - [TUẦN 01](https://docs.google.com/spreadsheets/d/1eJeb10n3GBN45Txf4hHSMGp4kZKr0kajc7e8ioPpsng/edit?usp=sharing)
