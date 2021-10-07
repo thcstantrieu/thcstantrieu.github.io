@@ -20,11 +20,8 @@ Nếu có yêu cầu hay thắc gì vui lòng các thầy cô gửi thông tin v
 
 ## LỊCH BÁO GIẢNG KHỐI 9 - BUỔI CHIỀU
 - [ Vũ Thị Thanh Hằng](https://docs.google.com/spreadsheets/d/1y890RgwBUkHaFg0VDoZAf7LoC_zGPZgy/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
-
 - [Trương Thị Khánh Linh](https://docs.google.com/spreadsheets/d/1Xgw1XvqkjcjVpHYuaAR8OFgJ2csPrafr/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
-
 - [Triệu Thu An](https://docs.google.com/spreadsheets/d/1QRUtGX2L2Ow0uiMb-0AuEDOFPaUEnRKU/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
-
 - [Trần Thị Thu Thảo](https://docs.google.com/spreadsheets/d/15-ZYd2qfIV6pbaXRh3EPIH9wykk0w1MQ/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
 - [Trần Thị Thu Hà](https://docs.google.com/spreadsheets/d/1Q624I0ddIuEY0DnoYF09UjswAGmGy1mT/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
