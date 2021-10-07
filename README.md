@@ -10,3 +10,10 @@ Nếu có yêu cầu hay thắc gì vui lòng các thầy cô gửi thông tin v
 - [TUẦN 05](https://docs.google.com/spreadsheets/d/1J04pIMQYFAW5E8w7yRBtMTkJQhOdh0vfKN7aIfVif4w/edit?usp=sharing)
 
 ## LỊCH BÁO GIẢNG KHỐI 9 - BUỔI CHIỀU
+
+
+
+
+
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
