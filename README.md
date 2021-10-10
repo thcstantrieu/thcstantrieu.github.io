@@ -1,5 +1,5 @@
-Chào mừng các thầy cô Trường THCS Tân Triều. Dưới đây là danh sách SỔ GHI ĐẦU BÀI, LỊCH BÁO GIẢNG 
-
+Chào mừng các thầy cô Trường THCS Tân Triều. Dưới đây là danh sách SỔ GHI ĐẦU BÀI, LỊCH BÁO GIẢNG và một số loại hồ sơ của nhà trường.
+Mọi người không chia sẻ link ra bên ngoài nhà trường để bảo mật thông tin.
 Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông tin về cho địa chỉ email : [huongfit@gmail.com](huongfit@gmail.com)
 
 ## SỔ GHI ĐẦU BÀI TRỰC TUYẾN
@@ -65,7 +65,10 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 - [Đào Thị Ngọc Lan](https://docs.google.com/spreadsheets/d/1SNi4EjMtGZWFalluj5d3O8Lt9VXLkS5A/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
 
-
+## SÁCH ONLINE LỚP 6
+[Nhấn vào link này](https://sites.google.com/view/truongthcstantrieu/home)
+## WEBSITE TRƯỜNG
+[THCS TÂN TRIỀU](https://thcstantrieu.hanoi.edu.vn/homegd3)
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
