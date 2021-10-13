@@ -64,7 +64,7 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 
 - [Đào Thị Ngọc Lan](https://docs.google.com/spreadsheets/d/1SNi4EjMtGZWFalluj5d3O8Lt9VXLkS5A/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
-- [Nguyễn Thị HUyền Trang](https://docs.google.com/spreadsheets/d/1qpkPDW1BEmhF2aSVjzZ6rR3nyULfdNYa/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
+- [Nguyễn Thị Huyền Trang](https://docs.google.com/spreadsheets/d/1qpkPDW1BEmhF2aSVjzZ6rR3nyULfdNYa/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
 
 ## SÁCH ONLINE LỚP 6
