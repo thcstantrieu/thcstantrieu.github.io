@@ -52,7 +52,7 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 
 - [Nguyễn Thị Duyên](https://docs.google.com/spreadsheets/d/1q_qXLxm_Nk2S2L_dUqmxJwNlyse-GATp/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
-- [Nguyễn Thj Bích Thủy](https://docs.google.com/spreadsheets/d/1WUF6reaShG6xn4dQjWRv1VMkOzM3QVnY/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
+- [Nguyễn Thị Bích Thủy](https://docs.google.com/spreadsheets/d/1WUF6reaShG6xn4dQjWRv1VMkOzM3QVnY/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
 - [Hoàng Văn Thể](https://docs.google.com/spreadsheets/d/1zFwD4gSNQlSgFLQBQIlCEI4Dqj2OM5fP/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
@@ -63,6 +63,8 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 - [Đinh Huy Hoàng](https://docs.google.com/spreadsheets/d/1ZARaNzOv0Y6oDUVwbNfyVxZtK3fdcOLu/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
 - [Đào Thị Ngọc Lan](https://docs.google.com/spreadsheets/d/1SNi4EjMtGZWFalluj5d3O8Lt9VXLkS5A/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
+
+- [Nguyễn Thị HUyền Trang](https://docs.google.com/spreadsheets/d/1qpkPDW1BEmhF2aSVjzZ6rR3nyULfdNYa/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
 
 ## SÁCH ONLINE LỚP 6
