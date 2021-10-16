@@ -9,7 +9,7 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 - [TUẦN 04](https://docs.google.com/spreadsheets/d/175qd32dMiBtXohs9_9Ug5EidkJkUwf14B4Dr1SZh-5c/edit?usp=sharing)
 - [TUẦN 05](https://docs.google.com/spreadsheets/d/1J04pIMQYFAW5E8w7yRBtMTkJQhOdh0vfKN7aIfVif4w/edit?usp=sharing)
 - [TUẦN 06](https://docs.google.com/spreadsheets/d/1XMsoxGAdyHTSt-EIn9smjnaRFZUmvLuQ40dTH0YIKnU/edit?usp=sharing)
-
+- [TUẦN 07](https://docs.google.com/spreadsheets/d/13oMP4eJ5LTJsWXkmYTuuXOwuRNXArSU-gRFDcMYC1KI/edit?usp=sharing)
 
 
 ## SỔ GHI ĐẦU BÀI - BỒI DƯỠNG HSG
