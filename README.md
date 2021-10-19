@@ -19,6 +19,11 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 - [KHỐI 9](https://docs.google.com/spreadsheets/d/15Fl5ITyJjYqMfQWI82hW0DXSSEsV9n85NeXum3SZ184/edit?usp=sharing)
 
 
+
+## LỊCH KIỂM TRA 
+[KIỂM TRA GIỮA HK1](https://docs.google.com/spreadsheets/d/1txZRZMMwwcbRtUHahc95jcQquOVF_vYbxJHTTeCyW3A/edit?usp=sharing)
+
+
 ## LỊCH BÁO GIẢNG KHỐI 9 - BUỔI CHIỀU
 - [Vũ Thị Thanh Hằng](https://docs.google.com/spreadsheets/d/1y890RgwBUkHaFg0VDoZAf7LoC_zGPZgy/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
