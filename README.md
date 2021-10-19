@@ -21,7 +21,7 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 
 
 ## LỊCH KIỂM TRA 
-[KIỂM TRA GIỮA HK1](https://docs.google.com/spreadsheets/d/1txZRZMMwwcbRtUHahc95jcQquOVF_vYbxJHTTeCyW3A/edit?usp=sharing)
+- [KIỂM TRA GIỮA HK1](https://docs.google.com/spreadsheets/d/1txZRZMMwwcbRtUHahc95jcQquOVF_vYbxJHTTeCyW3A/edit?usp=sharing)
 
 
 ## LỊCH BÁO GIẢNG KHỐI 9 - BUỔI CHIỀU
