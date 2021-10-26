@@ -25,7 +25,8 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 - [KIỂM TRA GIỮA HK1](https://docs.google.com/spreadsheets/d/1txZRZMMwwcbRtUHahc95jcQquOVF_vYbxJHTTeCyW3A/edit?usp=sharing)
 
 ## ĐĂNG KÝ HỘI GIẢNG
-- [HK1](https://docs.google.com/spreadsheets/d/1BJKPYgrdb2FUt0O4098U4Rkyw_fYW74vV_qaZs-pZEo/edit?usp=sharing)
+- [Học kì 1](https://docs.google.com/spreadsheets/d/1BJKPYgrdb2FUt0O4098U4Rkyw_fYW74vV_qaZs-pZEo/edit?usp=sharing)
+
 ## LỊCH BÁO GIẢNG KHỐI 9 - BUỔI CHIỀU
 - [Vũ Thị Thanh Hằng](https://docs.google.com/spreadsheets/d/1y890RgwBUkHaFg0VDoZAf7LoC_zGPZgy/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
 
