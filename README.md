@@ -15,6 +15,7 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 - [TUẦN 10](https://docs.google.com/spreadsheets/d/15G2EOhjusnig4hAhikyIBotoLGYgdic9LX6y_p8IjgU/edit?usp=sharing)
 - [TUẦN 11](https://docs.google.com/spreadsheets/d/1uLjpexVntOK6gbx9IFSrfnG6ZPasb-D-j4yBYpTNbVI/edit?usp=sharing)
 - [TUẦN 12](https://docs.google.com/spreadsheets/d/1KDVhRakI7Iiy2S8JOLlMTUOWyqPP_U0O6ZR3vUmbbeM/edit?usp=sharing)
+- [TUÂN 13](https://docs.google.com/spreadsheets/d/1tjsB9wevcrP3Xdm1QH2mZTKhcJcGQos8nYYWq-B40eI/edit?usp=sharing)
 
 ## SỔ GHI ĐẦU BÀI - BỒI DƯỠNG HSG
 - [KHỐI 6](https://docs.google.com/spreadsheets/d/1cebEymbZOSELhSMOU0wPFiP6-bbC1kKZNRad27P-5PA/edit?usp=sharing)
