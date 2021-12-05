@@ -1,6 +1,3 @@
-Chào mừng các thầy cô Trường THCS Tân Triều. Dưới đây là danh sách SỔ GHI ĐẦU BÀI, LỊCH BÁO GIẢNG và một số loại hồ sơ của nhà trường.
-Mọi người không chia sẻ link ra bên ngoài nhà trường để bảo mật thông tin.
-Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông tin về cho địa chỉ email : [huongfit@gmail.com](huongfit@gmail.com)
 
 ## SỔ GHI ĐẦU BÀI TRỰC TUYẾN
 - [TUẦN 01](https://docs.google.com/spreadsheets/d/1eJeb10n3GBN45Txf4hHSMGp4kZKr0kajc7e8ioPpsng/edit?usp=sharing)
@@ -16,6 +13,7 @@ Nếu có yêu cầu hay thắc mắc gì vui lòng các thầy cô gửi thông
 - [TUẦN 11](https://docs.google.com/spreadsheets/d/1uLjpexVntOK6gbx9IFSrfnG6ZPasb-D-j4yBYpTNbVI/edit?usp=sharing)
 - [TUẦN 12](https://docs.google.com/spreadsheets/d/1KDVhRakI7Iiy2S8JOLlMTUOWyqPP_U0O6ZR3vUmbbeM/edit?usp=sharing)
 - [TUÂN 13](https://docs.google.com/spreadsheets/d/1tjsB9wevcrP3Xdm1QH2mZTKhcJcGQos8nYYWq-B40eI/edit?usp=sharing)
+- [TUẦN 14](https://docs.google.com/spreadsheets/d/1Y-Fxu3diopYlk_tAaGEOCSS2-LzgNSD6smejehNgPx8/edit?usp=sharing)
 
 ## SỔ GHI ĐẦU BÀI - BỒI DƯỠNG HSG
 - [KHỐI 6](https://docs.google.com/spreadsheets/d/1cebEymbZOSELhSMOU0wPFiP6-bbC1kKZNRad27P-5PA/edit?usp=sharing)
