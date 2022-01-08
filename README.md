@@ -18,6 +18,7 @@
 - [TUẦN 16](https://docs.google.com/spreadsheets/d/14NRZHidfKvpgFE7jCuC44S0Vz8dtdJ3_1JoHUZfTKuc/edit?usp=sharing)
 - [TUẦN 17](https://docs.google.com/spreadsheets/d/1n4BaXC63beeJjgUzrWLmqzINNQzMnNu6leAp7VKiTpM/edit?usp=sharing)
 - [TUẦN 18](https://docs.google.com/spreadsheets/d/1cI4MJA4NDTPUOZoa_LBJlQMOa_5J2kxalIqcOej9OeQ/edit?usp=sharing)
+- [TUẦN 18B- TUẦN ĐỆM](https://docs.google.com/spreadsheets/d/1ntbP98NBzf5ugpeBe0wzHjnHoYwE1A_StKinx6qbQ9c/edit?usp=sharing)
 
 
 ## SỔ GHI ĐẦU BÀI - BỒI DƯỠNG HSG
