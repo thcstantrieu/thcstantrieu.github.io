@@ -1,5 +1,5 @@
 
-## SỔ GHI ĐẦU BÀI TRỰC TUYẾN
+## SỔ GHI ĐẦU BÀI TRỰC TUYẾN HK1
 - [TUẦN 01](https://docs.google.com/spreadsheets/d/1eJeb10n3GBN45Txf4hHSMGp4kZKr0kajc7e8ioPpsng/edit?usp=sharing)
 - [TUẦN 02](https://docs.google.com/spreadsheets/d/1wJbYc_iRMmv9e-g2y5nPBSyf9ifIInFN1GKXJaFmNY4/edit?usp=sharing)
 - [TUẦN 03](https://docs.google.com/spreadsheets/d/1eJV4mwOh0yOAzf_aq5JmcOCmoiKGWwkFQr7KFvL41qM/edit?usp=sharing)
@@ -19,6 +19,8 @@
 - [TUẦN 17](https://docs.google.com/spreadsheets/d/1n4BaXC63beeJjgUzrWLmqzINNQzMnNu6leAp7VKiTpM/edit?usp=sharing)
 - [TUẦN 18](https://docs.google.com/spreadsheets/d/1cI4MJA4NDTPUOZoa_LBJlQMOa_5J2kxalIqcOej9OeQ/edit?usp=sharing)
 - [TUẦN 18B- TUẦN ĐỆM](https://docs.google.com/spreadsheets/d/1ntbP98NBzf5ugpeBe0wzHjnHoYwE1A_StKinx6qbQ9c/edit?usp=sharing)
+## SỔ GHI ĐẦU BÀI TRỰC TUYẾN HK2
+- [TUẦN 19 - HK2](https://docs.google.com/spreadsheets/d/1T8CAAPHgry05gb9f3BiOUon9ZKKmLPfcYJq3VtVGgic/edit?usp=sharing)
 
 
 ## SỔ GHI ĐẦU BÀI - BỒI DƯỠNG HSG
