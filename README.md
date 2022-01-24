@@ -21,13 +21,15 @@
 - [TUẦN 18B- TUẦN ĐỆM](https://docs.google.com/spreadsheets/d/1ntbP98NBzf5ugpeBe0wzHjnHoYwE1A_StKinx6qbQ9c/edit?usp=sharing)
 ## SỔ GHI ĐẦU BÀI TRỰC TUYẾN HK2
 - [TUẦN 19 - HK2](https://docs.google.com/spreadsheets/d/1T8CAAPHgry05gb9f3BiOUon9ZKKmLPfcYJq3VtVGgic/edit?usp=sharing)
+- [TUẦN 20] (https://docs.google.com/spreadsheets/d/1cJanVWlzqZPpRaQpB3cKzIe0qGzodMTr2SB6uIyhXqc/edit?usp=sharing)
 
 
-## SỔ GHI ĐẦU BÀI - BỒI DƯỠNG HSG
+##SỔ GHI ĐẦU BÀI - BỒI DƯỠNG HSG
 - [KHỐI 6](https://docs.google.com/spreadsheets/d/1cebEymbZOSELhSMOU0wPFiP6-bbC1kKZNRad27P-5PA/edit?usp=sharing)
 - [KHỐI 7](https://docs.google.com/spreadsheets/d/1fk9JDTAkbOgIJ5VQkKGc4JdtJA9ffiUeVUj7_IuUQ9Q/edit?usp=sharing)
 - [KHỐI 8](https://docs.google.com/spreadsheets/d/14rBXAyA9EVsBf_Pa-WNHGUPyhgEwc_TcQ3O3KShE_pQ/edit?usp=sharing)
 - [KHỐI 9](https://docs.google.com/spreadsheets/d/15Fl5ITyJjYqMfQWI82hW0DXSSEsV9n85NeXum3SZ184/edit?usp=sharing)
+
 
 
 
