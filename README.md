@@ -22,6 +22,7 @@
 ## SỔ GHI ĐẦU BÀI TRỰC TUYẾN HK2
 - [TUẦN 19 - HK2](https://docs.google.com/spreadsheets/d/1T8CAAPHgry05gb9f3BiOUon9ZKKmLPfcYJq3VtVGgic/edit?usp=sharing)
 - [TUẦN 20](https://docs.google.com/spreadsheets/d/1cJanVWlzqZPpRaQpB3cKzIe0qGzodMTr2SB6uIyhXqc/edit?usp=sharing)
+- [TUẦN 21](https://docs.google.com/spreadsheets/d/1-bcOIbMX4NuAd5mAeGDkMzB4I70dkEYfTNiJdwds4vA/edit?usp=sharing)
 
 
 
