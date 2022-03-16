@@ -45,6 +45,7 @@
 
 ## ĐĂNG KÝ HỘI GIẢNG
 - [Học kì 1](https://docs.google.com/spreadsheets/d/1BJKPYgrdb2FUt0O4098U4Rkyw_fYW74vV_qaZs-pZEo/edit?usp=sharing)
+- [Học kì 2](https://docs.google.com/spreadsheets/d/18hUH-0g_BQwlaLuSqNTByPKP9Rl9vhT09due7UOyB0o/edit?usp=sharing)
 
 ## LỊCH BÁO GIẢNG KHỐI 9 - BUỔI CHIỀU
 - [Vũ Thị Thanh Hằng](https://docs.google.com/spreadsheets/d/1y890RgwBUkHaFg0VDoZAf7LoC_zGPZgy/edit?usp=sharing&ouid=104622505595214648651&rtpof=true&sd=true)
