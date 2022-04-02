@@ -30,6 +30,7 @@
 - [TUẦN 26](https://docs.google.com/spreadsheets/d/19zDJBxYW0WDdYcMtv6Cq6TCVs15TRvUwsz-a3JskkcE/edit?usp=sharing)
 - [TUẦN 27](https://docs.google.com/spreadsheets/d/1W3BEKnPYtVCYKsRqI44rrvrZlBGqebn6ZcPleVbGC0M/edit?usp=sharing)
 - [TUẦN 28](https://docs.google.com/spreadsheets/d/11AUXaAjzaDPe5_CMxd_mL8nWQPjggaVGncEPTzUr-Zc/edit?usp=sharing)
+- [TUẦN 29](https://docs.google.com/spreadsheets/d/1jEv9Pk6lZN_bOy18nTmHQa_SZkLjztfXJOxqI3u6PkI/edit?usp=sharing)
 
 
 
